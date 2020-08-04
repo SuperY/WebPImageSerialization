@@ -1,0 +1,6 @@
+framework module WebPImage {
+  umbrella header "WebPImage.h"
+  header "WebPImageSerialization.h"
+  export *
+  module * { export * }
+}
