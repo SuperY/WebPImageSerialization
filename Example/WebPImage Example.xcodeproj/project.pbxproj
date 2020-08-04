@@ -15,7 +15,7 @@
 		8F0E884624B5A8C20050D0E7 /* WebPImageSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = F8B7264518BEAB1000C12AFC /* WebPImageSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8F0E884724B5A8C20050D0E7 /* WebPImageSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B7264618BEAB1000C12AFC /* WebPImageSerialization.m */; };
 		8F6D436524B6F01800614F54 /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22E7604D23EE9C8B00051B96 /* WebP.framework */; };
-		8F6D436624B6F01800614F54 /* WebP.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 22E7604D23EE9C8B00051B96 /* WebP.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		8F6D436624B6F01800614F54 /* WebP.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 22E7604D23EE9C8B00051B96 /* WebP.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F82E75AF18ABDC4E002D596E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F82E75AE18ABDC4E002D596E /* Foundation.framework */; };
 		F82E75B118ABDC4E002D596E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F82E75B018ABDC4E002D596E /* CoreGraphics.framework */; };
 		F82E75B318ABDC4E002D596E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F82E75B218ABDC4E002D596E /* UIKit.framework */; };
